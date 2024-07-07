@@ -1,0 +1,13 @@
+package:
+  name: tmp
+  dependencies:
+    - console
+    - effect
+    - prelude
+  test:
+    main: Test.Main
+    dependencies: []
+workspace:
+  packageSet:
+    registry: 53.2.0
+  extraPackages: {}
